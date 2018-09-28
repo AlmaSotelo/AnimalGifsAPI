@@ -1,4 +1,4 @@
-//# AnimalGifsAPI
+//Wk#6  Homework - AnimalGifsAPI
 //Homework wk-6 / Gifs from Giphy API 
 //Includes buttons generation in the DOM and change of Gifs status.
 
